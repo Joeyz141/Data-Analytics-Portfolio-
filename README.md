@@ -7,7 +7,7 @@ Power BI • Excel
 Matplotlib • Data Visualization  
 Git & GitHub
 
-This repository highlights selected data analytics and machine learning projects demonstrating skills in data exploration, predictive modeling, web scraping, and business insight generation.
+This repository highlights selected data analytics and machine learning projects demonstrating skills in data exploration, predictive modeling, web scraping, and business insight. 
 
 Each project focuses on analyzing real or synthetic datasets to uncover patterns, build predictive models, and translate results into actionable recommendations.
 
