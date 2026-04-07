@@ -25,7 +25,7 @@ Tools Used:
 Python, Excel, Power BI, Data Visualization
 
 Repository:
-https://github.com/Joeyz141/Coffee-Shop-Sales-Analysis
+https://github.com/Joeyz141/Coffee-Shop-Sales-Analysis-.git
 
 ---
 
@@ -38,7 +38,7 @@ Tools Used:
 Python, Pandas, Scikit-learn, Matplotlib
 
 Repository:
-https://github.com/Joeyz141/Financial_Fraud
+https://github.com/Joeyz141/Financial_Fraud-.git
 
 ---
 
