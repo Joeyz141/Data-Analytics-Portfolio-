@@ -22,7 +22,7 @@ Focus Areas:
 Sales trends, product performance, business insights
 
 Tools Used:
-Python, Excel, Power BI, Data Visualization
+Excel, Power BI, Data Visualization
 
 Repository:
 https://github.com/Joeyz141/Coffee-Shop-Sales-Analysis-.git
@@ -49,7 +49,7 @@ Focus Areas:
 Student success metrics, program effectiveness, policy analysis
 
 Tools Used:
-Python, Web Scraping, Regression Modeling, Data Analysis
+Python, Web Scraping, Pandas, Scikit-learn, Matplotlib
 
 Repository:
 https://github.com/Joeyz141/EOPS_WebScrape_RegressionModel
@@ -63,7 +63,7 @@ Focus Areas:
 Customer engagement patterns, churn prediction, user behavior analysis
 
 Tools Used:
-Python, Pandas, Scikit-learn, Data Visualization
+Python, Pandas, Scikit-learn, Matplotlib
 
 Repository:
 https://github.com/Joeyz141/Spotify2025_Analysis
