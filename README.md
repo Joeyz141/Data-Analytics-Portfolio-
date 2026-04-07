@@ -46,7 +46,7 @@ https://github.com/Joeyz141/Financial_Fraud-.git
 Web-scraped institutional data and built regression models to analyze the impact of student support programs on academic outcomes.
 
 Focus Areas:
-Student success metrics, program effectiveness, policy analysis
+Student success metrics, program effectiveness
 
 Tools Used:
 Python, Web Scraping, Pandas, Scikit-learn, Matplotlib
